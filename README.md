@@ -1,53 +1,88 @@
-# 👋 Hello, World! I'm Mrunaal Chincholikar
+# 👋 Hi, I'm Mrunaal Chincholikar!
 
-Welcome to my GitHub! I'm a **final-year Computer Science and Engineering student** with a love for **data analysis** and creating **dynamic, visually stunning dashboards**. Currently, I’m working as a **Data Engineer Intern at Bajaj Finserv**, where I get to transform raw data into actionable insights every day.
+### Senior Data Analyst | Data Analytics | Business Intelligence | AI Enthusiast
 
-Nothing excites me more than uncovering stories hidden in data and empowering businesses to make smarter decisions with intuitive dashboards. Whether it's crunching numbers, designing sleek visuals, or solving data puzzles, I thrive on bringing clarity to complexity.
+Welcome to my GitHub! I'm a Computer Science and Engineering graduate passionate about transforming data into meaningful insights and building solutions that help businesses make data-driven decisions.
 
----
+Currently, I'm working as a **Senior Data Analyst at Numerator (Worldpanel by Numerator)**, where I work with consumer panel data, data quality, reporting automation, and business intelligence solutions.
 
-## 🎯 What I Do
-- **Dashboard Development**: Creating interactive Power BI dashboards that make data not just informative but engaging.
-- **Data Storytelling**: Turning raw data into meaningful narratives that drive decision-making.
-- **Problem Solving**: Tackling business challenges with innovative data solutions and logical reasoning.
+I enjoy exploring data, solving complex problems, automating workflows, and building interactive dashboards that turn information into actionable insights.
 
 ---
 
-## 🛠️ My Toolbox
-- **Languages**: Python | SQL | JavaScript  
-- **Visualization Tools**: Power BI | Tableau | Matplotlib  
-- **Skills**: Data Cleaning | DAX | Generative AI  
-- **Tools & Platforms**: Git | VS Code | Jupyter Notebook  
+## 💼 Professional Experience
+
+**Senior Data Analyst – Numerator**  
+*July 2025 – Present*
+- Working with large-scale consumer panel datasets.
+- Performing data analysis, validation, and quality investigations.
+- Developing and maintaining Power BI dashboards and reports.
+- Automating reporting workflows using Python, SQL, and Excel.
+- Working with Databricks to process and analyze data.
+
+**Data Engineering Intern – Bajaj Finserv**  
+*July 2024 – March 2025*
+- Worked on data analytics and engineering initiatives.
+- Gained hands-on experience with SQL, Python, Power BI, and Azure Databricks.
+- Explored data transformation, dashboard development, and reporting solutions.
 
 ---
 
-## 🚀 Projects That Inspire Me
-- **Access Management Dashboard**: Ensuring compliance and streamlining operations at Bajaj Finserv.  
-- **CDP Dashboard**: Building dynamic slicers for seamless data exploration.  
-- **Response Time Analysis**: Identifying bottlenecks with cutting-edge data segmentation techniques.
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Programming | Python, SQL |
+| Data Analytics | Advanced Excel, Data Cleaning, Data Validation |
+| Data Visualization | Power BI, DAX, Tableau |
+| Data Engineering | Azure Databricks, Data Processing, ETL Concepts |
+| Tools | Git, GitHub, VS Code, Jupyter Notebook |
 
 ---
 
-## ✨ Fun Facts About Me
-- **Dashboard Enthusiast**: Building dashboards feels like creating art to me. Every graph and KPI is a brushstroke in my data masterpiece!  
-- **Problem Solver**: I genuinely enjoy troubleshooting and finding elegant solutions to complex challenges.  
-- **AI Explorer**: When I’m not visualizing data, you’ll find me exploring the fascinating world of Artificial Intelligence and automation.  
+## 🚀 Featured Projects
+
+**1. Access Management Dashboard**
+- Developed an interactive dashboard to monitor access management activities.
+- Focused on data visualization, reporting, and operational insights.
+
+**2. Retail Sales Analysis**
+- Analyzed retail sales data to identify trends and business performance.
+- Explored KPIs, sales patterns, and data-driven insights.
+
+**3. Robotic Voice Converter**
+- Developed an academic project exploring voice conversion and audio processing.
 
 ---
 
-## 🌟 My Philosophy
-_"Data, when visualized well, is not just information \u2014 it's empowerment."_  
+## 🌱 Currently Exploring
 
-I believe every dataset has a story, and it's my mission to craft that story in a way that's clear, compelling, and actionable.
-
----
-
-## 📫 Let’s Connect!
-- **Email**: [Mrunaalchincholikar20@gmail.com](mailto:Mrunaalchincholikar20@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/mrunaal-chincholikar](https://linkedin.com/in/mrunaal-chincholikar)  
-- **Portfolio**: [Coming Soon! 🚀]  
+- Artificial Intelligence and Machine Learning
+- Data Engineering and Big Data Technologies
+- Natural Language Processing (NLP)
+- Generative AI and Automation
+- Advanced SQL and Python
 
 ---
 
-## 🌱 Always Learning
-I’m on a constant journey to level up my skills, be it perfecting a new DAX formula, mastering advanced Power BI techniques, or diving deeper into AI. Follow my GitHub to join me on this exciting ride!
+## ✨ A Little More About Me
+
+- 📊 I love turning complex datasets into meaningful visual stories.
+- 💡 I'm passionate about finding smarter ways to solve business problems.
+- 🤖 Curious about how AI is transforming data analytics and engineering.
+- 💃 Trained in Kathak and passionate about dance.
+- 🌍 Aspiring to pursue my Master's in Germany.
+
+---
+
+## 📫 Let's Connect!
+
+- **Email:** [Mrunaalchincholikar20@gmail.com](mailto:Mrunaalchincholikar20@gmail.com)
+- **LinkedIn:** [Mrunaal Chincholikar](https://linkedin.com/in/mrunaal-chincholikar)
+- **GitHub:** [mrunaal20](https://github.com/mrunaal20)
+
+---
+
+_"Turning data into insights, ideas into solutions, and curiosity into continuous learning."_ 
+
+⭐ Thanks for visiting my profile!
